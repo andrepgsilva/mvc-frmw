@@ -1,0 +1,7 @@
+vendor
+.idea
+.env
+docker/mysql/*
+.php_cs.cache
+composer.lock
+php.ini
